@@ -1,2 +1,2 @@
 # Caro-Nonno-Pizzeria
-task for Winc 
+task for WincAcademy, JS module
